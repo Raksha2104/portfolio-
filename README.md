@@ -13,8 +13,7 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - HTML
 - CSS
 
-## 🔗 Live Demo
-[Click Here](https://Raksha2104.github.io/portfolio)
+
 
 ## 📌 Purpose
 The purpose of this project is to practice frontend development and create a personal space to showcase my work.
